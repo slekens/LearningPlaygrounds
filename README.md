@@ -9,3 +9,9 @@ Este primer playground contiene lo necesario para que conozcas las variables y c
 ## Control de Flujo
 
 *Proximamente*
+
+## Requisitos
+
+1. Xcode (ultima version).
+2. Conocimiento en Git (para descargar los playgrounds).
+3. Cualquier duda o comentario en el sitio slekens.dev
